@@ -1,1 +1,1 @@
-# Exploratory Data Analysis and Protein Prediction 
+# Exploratory Data Analysis and Predicting Protein Classification 
