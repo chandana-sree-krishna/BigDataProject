@@ -1,1 +1,1 @@
-# BigDataProject
+# Exploratory Data Analysis and Protein Prediction 
